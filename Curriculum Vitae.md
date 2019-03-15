@@ -5,7 +5,7 @@ Idade: 28 anos <br>
 Cidade: Campo Grande <br>
 Estado: MS <br>
 Telefone: (67) 99191-6886 <br>
-Email: thiagoyudifukunaga@gmail.com / thiago.fukunaga@mail.utoronto.ca <br>
+Email: thiagoyudifukunaga@gmail.com <br>
 
 ## OBJETIVO
 Adquirir novas habilidades e competências, compartilhar meu conhecimento com meus colegas de trabalho, aprimorar minhas habilidades intelectuais, comunicativas e gerenciais (tomada de decisões). Busco dar o máximo para atender as reais necessidades do cliente e da empresa. Almejo o crescimento pessoal e organizacional.<br>
