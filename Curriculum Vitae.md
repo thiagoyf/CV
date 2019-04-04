@@ -8,14 +8,14 @@ Telefone: (67) 99191-6886 <br>
 Email: thiagoyudifukunaga@gmail.com <br>
 
 ## OBJETIVO
-Adquirir novas habilidades e competências, compartilhar meu conhecimento com meus colegas de trabalho, aprimorar minhas habilidades intelectuais, comunicativas e gerenciais (tomada de decisões). Busco dar o máximo para atender as reais necessidades do cliente e da empresa. Almejo o crescimento pessoal e organizacional.<br>
+Adquirir novas habilidades e competências, compartilhar meu conhecimento com meus colegas de trabalho, aprimorar minhas habilidades intelectuais, comunicativas e gerenciais (tomada de decisões). Quero ter a oportunidades de participar de um produto a crescer e virar um produto internacional.<br>
 
 ## FORMAÇÃO
 * Graduando em Análise de Sistemas. UFMS (Universidade de Mato Grosso do Sul), conclusão em 2015.
 * Intercambio. UTM (University of Toronto Mississauga - Canadá), conclusão em 2014
 
 ## RESUMO DE QUALIFICAÇÃO
-* Programação - Programação web, modelos de desenvolvimentos ágil, sistemas de banco de dados PostgreSQL, MySQL, C, C++, Java, JSF, Hibernate, conhecimento em Spring, JPA, UML, PHP, pouco de CakePHP, pouco de WordPress, pouco conhecimento em Python, pouco conhecimento em Ruby, conhecimento em HTML5, conhecimento em CSS3, JavaScript, AJAX, JQuery, SVN, Git, Android, aprendendo Angular 6, aprendendo NodeJS, aprendendo MongoDB, aprendendo React, aprendendo Redux e aprendendo ReactNative, aprendendo GraphQL.
+* Programação - Programação web, modelos de desenvolvimentos ágil, sistemas de banco de dados PostgreSQL - 2 a 3 anos, Java - 2 a 3 anos, JSF - 2 a 3 anos, Hibernate, conhecimento em Spring, JPA - 1 a 2 anos, HTML5 - 1 a 2 anos, conhecimento em CSS3 - 1 a 2 anos, JavaScript - 1 a 2 anos, AJAX - 1 a 2 anos, JQuery - 1 a 2 anos, SVN - 1 a 2 anos, Git - 1 a 2 anos.
 
 * Experiências Internacionais - Passou 6 meses estudando inglês na University of Toronto Mississauga, Passou mais 8 meses estudando Computer Science na mesma universidade, com ênfase em Software Engineering, Software design e Introduction to Databases.
 
