@@ -40,8 +40,8 @@ Android(Java) - 2 - 3 anos, Android(Kotlin) - 1 ano.
   * Principais atividades: Desenvolvimento de sistemas customizado para Desktop, Web (JavaEE e Spring), e Mobile (Android).
   
 * 2019 - e-Deploy
- * Cargo: Desenvolvedor e Analista
- * Principais atividades: Desenvolvimento Mobile (Android, Flutter, React Native).
+  * Cargo: Desenvolvedor e Analista
+  * Principais atividades: Desenvolvimento Mobile (Android, Flutter, React Native).
 
 
 ## QUALIFICAÇÕES E ATIVIDADES COMPLEMENTARES
