@@ -31,7 +31,7 @@ Android(Java) - 2 - 3 anos, Android(Kotlin) - 1 ano.
   * Cargo: Analista e Desenvolvedor de Sistemas (Estágio).
   * Principais atividades: Desenvolvimento de websites, manutenção de websites, Hospedagem de websites.
 
-* 2015 LEDES (UFMS)
+* 2015 - 2016 LEDES (UFMS)
   * Cargo: Analista e Desenvolvedor de Sistemas (Estágio).
   * Principais atividades: Desenvolvimento de sistema e manutenção do SIGS Sáude Mobile
 
