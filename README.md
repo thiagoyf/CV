@@ -39,10 +39,9 @@ Android(Java) - 2 - 3 anos, Android(Kotlin) - 1 ano.
   * Cargo: Desenvolvedor e Analista
   * Principais atividades: Desenvolvimento de sistemas customizado para Desktop, Web (JavaEE e Spring), e Mobile (Android).
   
-* 2019 - e-Deploy
+* 2019 - até o momento e-Deploy
   * Cargo: Desenvolvedor e Analista
   * Principais atividades: Desenvolvimento Mobile (Android, Flutter, React Native).
-
 
 ## QUALIFICAÇÕES E ATIVIDADES COMPLEMENTARES
 * Inglês – Nível Avançado (Wizard, 18 meses, conclusão em 2012).
@@ -51,5 +50,4 @@ Android(Java) - 2 - 3 anos, Android(Kotlin) - 1 ano.
 * Curso de Desenvolvimento Android (2012).
 
 ## INFORMAÇÕES ADICIONAIS
-* Quero aprender novas tecnologias e aperfeiçoar minhas habilidades como programador, explorar áreas como Big Data, Machine Learning, IA.
-* Interesse em desenvolvimento de jogo (nenhuma experiência).
+* Quero aprender novas tecnologias e aperfeiçoar minhas habilidades como desenvolvedor e analista.
