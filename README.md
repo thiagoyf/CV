@@ -42,6 +42,8 @@ Android(Java) - 2 - 3 anos, Android(Kotlin) - 1 ano.
 * 2019 - até o momento - e-Deploy
   * Cargo: Desenvolvedor e Analista
   * Principais atividades: Desenvolvimento Mobile (Android, Flutter, React Native).
+  * Projetos:
+    * Natura:
 
 ## QUALIFICAÇÕES E ATIVIDADES COMPLEMENTARES
 * Inglês – Nível Avançado (Wizard, 18 meses, conclusão em 2012).
