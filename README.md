@@ -23,7 +23,7 @@ Android(Java) - 2 - 3 anos, Android(Kotlin) - 1 ano.
 * Participação de desenvolvimento de website na empresa Agence na linguagem PHP.
 
 ## EXPERIÊNCIA PROFISSIONAL
-* 2011 - 2013 Universidade Federal de Mato Grosso do Sul
+* 2011 - 2013 - Universidade Federal de Mato Grosso do Sul
   * Cargo: Petiano
   * Principais atividades: Monitor, Participação em projetos de Iniciações cientificas.
 
@@ -31,15 +31,15 @@ Android(Java) - 2 - 3 anos, Android(Kotlin) - 1 ano.
   * Cargo: Analista e Desenvolvedor de Sistemas (Estágio).
   * Principais atividades: Desenvolvimento de websites, manutenção de websites, Hospedagem de websites.
 
-* 2015 - 2016 LEDES (UFMS)
+* 2015 - 2016 - LEDES (UFMS)
   * Cargo: Analista e Desenvolvedor de Sistemas (Estágio).
   * Principais atividades: Desenvolvimento de sistema e manutenção do SIGS Sáude Mobile
 
-* 2017 - 2019 Byter Assessoria Em Tecnologia Ltda - Me
+* 2017 - 2019 - Byter Assessoria Em Tecnologia Ltda - Me
   * Cargo: Desenvolvedor e Analista
   * Principais atividades: Desenvolvimento de sistemas customizado para Desktop, Web (JavaEE e Spring), e Mobile (Android).
   
-* 2019 - até o momento e-Deploy
+* 2019 - até o momento - e-Deploy
   * Cargo: Desenvolvedor e Analista
   * Principais atividades: Desenvolvimento Mobile (Android, Flutter, React Native).
 
