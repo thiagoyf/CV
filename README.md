@@ -15,7 +15,7 @@ Adquirir novas habilidades e competências, compartilhar meu conhecimento com m
 * Intercambio. UTM (University of Toronto Mississauga - Canadá), conclusão em 2014
 
 ## RESUMO DE QUALIFICAÇÃO
-* Programação - Programação web, modelos de desenvolvimentos ágil, sistemas de banco de dados PostgreSQL - 2 a 3 anos, Java - 2 a 3 anos, JSF - 2 a 3 anos, Hibernate, conhecimento em Spring, JPA - 1 a 2 anos, HTML5 - 1 a 2 anos, conhecimento em CSS3 - 1 a 2 anos, JavaScript - 1 a 2 anos, AJAX - 1 a 2 anos, JQuery - 1 a 2 anos, SVN - 1 a 2 anos, Git - 2 a 3 anos, Android(Java) - 3 - 4 anos, Android(Kotlin) - 1 ano.
+* Programação - Programação web, modelos de desenvolvimentos ágil, sistemas de banco de dados PostgreSQL - 2 a 3 anos, Java - 2 a 3 anos, JSF - 2 a 3 anos, Hibernate, conhecimento em Spring, JPA - 1 a 2 anos, HTML5 - 1 a 2 anos, conhecimento em CSS3 - 1 a 2 anos, JavaScript - 1 a 2 anos, AJAX - 1 a 2 anos, JQuery - 1 a 2 anos, SVN - 1 a 2 anos, Git - 2 a 3 anos, Android(Java) - 3 - 4 anos, Android(Kotlin) - 2 ano.
 
 * Experiências Internacionais - Passou 6 meses estudando inglês na University of Toronto Mississauga, Passou mais 8 meses estudando Computer Science na mesma universidade, com ênfase em Software Engineering, Software design e Introduction to Databases.
 
@@ -37,7 +37,8 @@ Adquirir novas habilidades e competências, compartilhar meu conhecimento com m
     * Lopes Consultoria de Imóveis
       * Descrição: Participando do projeto ajudando na construção do Digital com o app voltado para os corretores associado a Lopes. Trabalhando em conjunto com outras consultorias.
       * Linguagem: Android (Kotlin).
-      * Data: Junho de 2020 – Até o momento (5 meses).
+      * Data: Junho de 2020 – Dezembro de 2020 (6 meses).
+
 
 * 2017 - 2019 - Byter Assessoria Em Tecnologia Ltda - Me
   * Cargo: Desenvolvedor e Analista
