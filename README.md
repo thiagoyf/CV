@@ -37,7 +37,7 @@ Adquirir novas habilidades e competências, compartilhar meu conhecimento com m
     * Lopes Consultoria de Imóveis
       * Descrição: Participando do projeto ajudando na construção do Digital com o app voltado para os corretores associado a Lopes. Trabalhando em conjunto com outras consultorias.
       * Linguagem: Android (Kotlin).
-      * Data: Junho de 2020 – Dezembro de 2020 (6 meses).
+      * Data: Junho de 2020 – Dezembro de 2020 (7 meses).
 
 
 * 2017 - 2019 - Byter Assessoria Em Tecnologia Ltda - Me
